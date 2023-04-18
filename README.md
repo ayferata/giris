@@ -4,6 +4,7 @@ package day;
 import java.util.Scanner;
 
 public class kullanıcı {
+
     public static void main(String[] args) {
         String  userName, password;
 
