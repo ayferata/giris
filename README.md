@@ -18,6 +18,7 @@ public class kullanıcı {
 
         if (userName.equals("patika")&& password.equals("java123")) {
             System.out.println("Giriş Yaptınız !");
+            
         }else{
             System.out.println("Bilgileriniz Yanlış !");
         }
